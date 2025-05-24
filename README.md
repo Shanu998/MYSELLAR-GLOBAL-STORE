@@ -30,6 +30,7 @@ ProjectPro
 ## DATASOURCE
 
 ## DATA MODEL: 
+
 The data model comprises interconnected tables representing
 
 - Sales Data: Transaction details including date, product, quantity, and revenue.
