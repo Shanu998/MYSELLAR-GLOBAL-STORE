@@ -40,6 +40,7 @@ The data model comprises interconnected tables representing
 - Product Catalog: Details on product categories, pricing, and inventory levels.
 
 - Geographical Data: Regional and location-based information for market analysis.
+  
 Relationships are established to enable cross-functional analysis and drill-down capabilities.
 
 ## DASHBOARD INSIGHTS
