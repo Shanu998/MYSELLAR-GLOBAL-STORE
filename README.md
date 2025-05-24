@@ -28,7 +28,7 @@ ProjectPro
 - Dashboard Design: Implementing best practices for layout, color schemes, and user navigation to enhance user experience.
 
 ## DATASOURCE
-
+<a href = https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/raw/refs/heads/main/IMAGES/Mysellar%20Global%20Sales%20Dataset.xlsx> Download the Microsoft Excel file </a>
 ## DATA MODEL: 
 ![Data Model](https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/blob/main/IMAGES/MYSELLAR%20DATA%20MODEL.png)
 The data model comprises interconnected tables representing
