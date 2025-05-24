@@ -44,7 +44,7 @@ The data model comprises interconnected tables representing
 Relationships are established to enable cross-functional analysis and drill-down capabilities.
 
 ## DASHBOARD INSIGHTS
-![Overview Dashboard](https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/blob/main/IMAGES/MYSELLAR%20OVERVIEW.png)
+![Overview Dashboard](https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/blob/main/IMAGES/MYSELLAR%20MAIN%20OVERVIEW.png)
 - Sales Trends: Visualization of sales performance over time, highlighting peak periods and seasonal variations.
 
 - Top Products: Identification of best-selling products and categories contributing to revenue.
