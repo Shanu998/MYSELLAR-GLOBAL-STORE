@@ -33,7 +33,7 @@ ProjectPro
 ![Data Model](https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/blob/main/IMAGES/MYSELLAR%20DATA%20MODEL.png)
 The data model comprises interconnected tables representing
 
-- Sales Data: Transaction details including date, product, quantity, and revenue.
+- Order Data: Transaction details including date, product, quantity, and revenue.
 
 - Customer Information: Demographics, purchase history, and segmentation data.
 
