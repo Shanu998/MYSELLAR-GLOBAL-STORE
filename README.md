@@ -23,7 +23,7 @@ ProjectPro
 
 - Data Transformation: Utilizing Power Query for data cleaning, filtering, and shaping to ensure data quality and consistency.
 
-- Visualization: Designing interactive charts, graphs, and maps to effectively communicate insights.
+- Data Visualization: Designing interactive charts, graphs, and maps to effectively communicate insights.
 
 - Dashboard Design: Implementing best practices for layout, color schemes, and user navigation to enhance user experience.
 
