@@ -66,7 +66,7 @@ Relationships are established to enable cross-functional analysis and drill-down
 - Continuous Monitoring: Implement regular dashboard reviews to track performance and adapt strategies accordingly.
 
 ## DOWNLOAD
-
+<a href = "https://github.com/Shanu998/MYSELLAR-GLOBAL-STORE/raw/refs/heads/main/IMAGES/Mysellar%20Analysis.pbix"> Download the Power BI file </a>
 
 
 
